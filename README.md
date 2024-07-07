@@ -1,10 +1,17 @@
-# email-spam-classifier
-End to end code for the email spam classifier project
+# Email/Spam Classifier
 
-git clone https://github.com/MBABHISHEK/sms-spam-classifier.git
+## Overview
+This project implements a machine learning model to classify emails or SMS messages as spam or not spam.
 
-cd sms-spam-classifier
+## Installation
+1. Clone the repository:git clone https://github.com/MBABHISHEK/sms-spam-classifier.git
+2. cd sms-spam-classifier
 
-pip install -r requirements.txt
+## Install dependencies:
+1. pip install -r requirements.txt
 
-streamlit run app.py
+
+## Usage
+1. Run the Streamlit app:streamlit run app.py
+
+
